@@ -1,16 +1,33 @@
-## Hi there 👋
+Información Personal: 
 
-<!--
-**SantiagoeOjeda/SantiagoeOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 Santiago Ojeda
 
-Here are some ideas to get you started:
+💼 Technical Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 113051-4032
+
+📩 santiagoeojeda@gmail.com
+
+🏚 Buenos Aires, Argentina
+
+
+
+Lenguajes
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+Backend
+
+
+Frontend
+
+
+Database
+
+
+IDE
+
+
+Comunication
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
